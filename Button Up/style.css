@@ -1,0 +1,41 @@
+#container{
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    margin: 50px;
+    overflow: visible;
+}
+
+.search{
+    background-color:whitesmoke;
+    color:#46b1b1;
+    font-family: sans-serif;
+    border:2px solid #46b1b1 ;
+    border-radius:15px;
+    width:150px;
+    height: 30px;
+    font-weight: bold;
+    font-size:medium
+}
+
+.plus{
+    border: 1px solid #69e4d2;
+    color: white;
+    margin-top: 10px;
+    background-color:#69e4d2;
+    border-radius: 70%;
+    height: 40px;
+    width: 40px;
+    font-size:x-large;
+}
+
+.createAccount{
+    border:2px solid black;
+    color: white;
+    background-color: dodgerblue;
+    margin-top: 10px;
+    height: 35px;
+    width: 170px;
+    font-size: medium;
+    box-shadow: 4px 4px black;
+}
